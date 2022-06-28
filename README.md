@@ -1,3 +1,4 @@
+![](https://github.com/JoshuaBearden/banner.png)
 # Hi there 👋
 My name is Josh! I am studying computer science with a concentration in Machine Learning and Artificial Intelligence. Feel free to browse projects I have worked on in my quest of learning to code. 😄
 
