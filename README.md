@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/JoshuaBearden/JoshuaBearden/blob/master/Joshua Bearden.png?raw=true">
+</p>
 # Hi there 👋
 My name is Josh! I am studying computer science with a concentration in Machine Learning and Artificial Intelligence. Feel free to browse projects I have worked on in my quest of learning to code. 😄
 
