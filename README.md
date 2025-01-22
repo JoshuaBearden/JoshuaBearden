@@ -4,12 +4,14 @@
 
 
 # Hi there 👋
-My name is Josh! I am studying computer science with a concentration in Machine Learning and Artificial Intelligence. Feel free to browse projects I have worked on while on my quest of learning to code. 😄
+My name is Josh! I am studying computer science with a concentration in Machine Learning and Artificial Intelligence. 😄
 
 ## I'm currently...
-🔭 Working: on developing my coding skills at school, CodeWars, and freecodecamp.org 
+🔭 Working: on school, raising two girls, being a good person, understanding the meaning of life
 
-🌱 Learning: Python, Javascript, and C#
+🌱 Learning: Python, Java, OOP, Algorithms, ML foundations and principals, software engineering
+
+🤔 I’m looking for help with: Finding an internship and employment after graduation, understanding the meaning of life...
 
 
 <!--
